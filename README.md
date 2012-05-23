@@ -23,7 +23,7 @@ https://github.com/gkz/LiveScript/issues/19
 will be compiled to
 
 ```javascript
-['hitler ', 5123]
+['hitler ', 1945]
   .map(function(_0) {return _0.toString();})
   .map(function(_0) {return _0.trim();})
   .filter(function(_0) {return _0.length > 5;});
