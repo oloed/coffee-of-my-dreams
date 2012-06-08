@@ -10,8 +10,9 @@ https://github.com/gkz/LiveScript/issues/17
 * Add support for Scala placeholder
 https://github.com/gkz/LiveScript/issues/19
 * Auto-add `use strict` to the result js.
+* Transform `a = {}` to `a = Object.create(null)`.
 * Play with `Object.freeze` / `const` to achieve great immutability of shit.
-(still not sure how exactly)
+(still not sure how exactly).
 
 ## Example code
 
